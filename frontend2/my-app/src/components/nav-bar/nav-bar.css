@@ -1,0 +1,13 @@
+.bar {
+  background-color: black;
+  color: white;
+}
+
+.logo-nav-bar {
+  width: 110px;
+  height: 80px;
+  position: relative;
+}
+.logo {
+  color: aliceblue;
+}

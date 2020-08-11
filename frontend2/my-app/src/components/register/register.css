@@ -1,0 +1,36 @@
+.Register {
+  display: inline-block;
+  background-color: black;
+  padding-left: 45px;
+  padding-right: 45px;
+  border-radius: 30px;
+  color: #c0c0c0;
+  margin-top: 10px;
+  padding-top: 20px;
+  padding-bottom: 12px;
+}
+.register-home h1 {
+  margin-top: 8px;
+  font-size: 28px;
+}
+label {
+  text-align: left;
+  padding-right: 230px;
+  margin-top: 20px;
+}
+.register-home input,
+.register-home select {
+  background-color: #242424;
+  border: none;
+  border-radius: 30px;
+  color: white;
+  width: 320px;
+  height: 35px;
+  padding-left: 10px;
+}
+.register-home .btn-secondary {
+  width: 150px;
+  background-color: #008db1;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}

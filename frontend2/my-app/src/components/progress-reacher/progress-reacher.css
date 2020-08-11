@@ -1,0 +1,21 @@
+.filler {
+  background: #008db1;
+  height: 100%;
+  border-radius: inherit;
+  transition: width 0.25s ease-in;
+}
+
+.progress-bar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  background-color: #ffffff;
+}
+.main-reacher-status {
+  text-align: center;
+  margin-top: 150px;
+}

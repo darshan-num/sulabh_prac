@@ -1,0 +1,35 @@
+.carousel-inner {
+  text-align: left;
+}
+.carousel-item,
+.carousel-item.active,
+.custom-tag {
+  background: white;
+}
+.carousel-caption p {
+  color: #606060;
+  margin-top: 30px;
+  margin-bottom: 150px;
+  font-size: 24px;
+}
+.carousel-caption h3 {
+  font-size: 42px;
+  color: #606060;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+.carousel-control-next,
+.carousel-control-prev {
+  color: black;
+}
+.carousel-indicators .active,
+.carousel-indicators li {
+  background-color: #008db1;
+  height: 5px;
+  border-radius: 50px;
+  width: 100px;
+  margin-top: 25px;
+}
+.slide {
+  margin-top: 100px;
+}

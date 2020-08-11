@@ -1,0 +1,30 @@
+.Login {
+  display: inline-block;
+  background-color: black;
+  padding: 45px;
+  border-radius: 30px;
+  color: #c0c0c0;
+  margin-top: 10px;
+}
+.login-home h1 {
+  margin-top: 8px;
+  font-size: 28px;
+}
+.login-home label {
+  text-align: left;
+  padding-right: 200px;
+  margin-top: 25px;
+}
+.login-home input {
+  background-color: #242424;
+  border: none;
+  border-radius: 30px;
+  color: white;
+  width: 300px;
+  height: 35px;
+  padding-left: 10px;
+}
+.btn-secondary {
+  width: 150px;
+  background-color: #008db1;
+}

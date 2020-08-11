@@ -1,0 +1,12 @@
+.marker {
+  height: 50px;
+  width: 30px;
+}
+.marker2 {
+  height: 90px;
+  width: 80px;
+}
+.loading-circle {
+  margin-left: -48px;
+  margin-top: -48px;
+}

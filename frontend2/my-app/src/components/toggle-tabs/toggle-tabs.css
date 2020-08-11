@@ -1,0 +1,18 @@
+.nav-item-1 {
+  color: #000;
+  background-color: #ebebeb;
+}
+
+.nav-item-2 {
+  color: #000;
+  background-color: #ebebeb;
+}
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-item.show .nav-link {
+  background-color: #008db1;
+  color: #ebebeb;
+}
+
+.nav {
+  text-align: center;
+}
